@@ -1,6 +1,6 @@
 # Desafios Aritméticos Intermediários em C# Bootcamp GFT 📝
 
-Desafios realizados no processo seletivo do programa START UNI da GFT em C#
+Desafios realizados no processo seletivo do programa GFT START #2 .NET em C#
 
 ## 💵 Exercício Notas e Moedas
 
