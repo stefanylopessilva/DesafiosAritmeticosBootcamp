@@ -1,0 +1,13 @@
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.exe
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.deps.json
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.runtimeconfig.json
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.runtimeconfig.dev.json
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.dll
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\bin\Debug\netcoreapp3.1\DesafioNotasEMoedas.pdb
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.csproj.AssemblyReference.cache
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.AssemblyInfoInputs.cache
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.AssemblyInfo.cs
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.dll
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.pdb
+C:\Users\Stefany\Downloads\DesafioBootcamp\DesafioNotasEMoedas\DesafioNotasEMoedas\obj\Debug\netcoreapp3.1\DesafioNotasEMoedas.genruntimeconfig.cache
